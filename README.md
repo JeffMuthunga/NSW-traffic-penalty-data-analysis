@@ -8,7 +8,7 @@ The system offers various features, including searching for traffic violations b
 
 
 
-## Authors
+## CoAuthors
 
 - [@kelvinkinoti](https://www.github.com/octokatherine)
 
